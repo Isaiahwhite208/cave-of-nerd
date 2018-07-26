@@ -29,3 +29,8 @@
     flex-direction: column;
     justify-content: flex-end;
 }
+.g-underline{
+    border-bottom: 2px blue solid;
+    display: inline-block;
+    width: fit-content;
+}
