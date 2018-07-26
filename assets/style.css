@@ -18,6 +18,10 @@
     background-image: url(http://unsplash.it/400/200);
     height: 40vh;
 }
+.secondary-art{
+    background-image: url(http://unsplash.it/400/200);
+    height: 20vh;
+}
 .media-nerd{
     color: white;
     background-size: cover;
