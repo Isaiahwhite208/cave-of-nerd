@@ -1,8 +1,27 @@
 .w100{
     widows: 100%;
 }
-
 .bg-blue{
-    background-color: blue; 
+    background-color: rgb(104, 104, 173); 
     color: white;
+}
+.bg-blue a{
+    text-decoration: none;
+    color: white;
+}
+.bg-blue ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.main-art{
+    background-image: url(http://unsplash.it/400/200);
+    height: 40vh;
+}
+.media-nerd{
+    color: white;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
